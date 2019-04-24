@@ -38,7 +38,7 @@ module cpu(
     input M8,
     input M9,
     input reset,
-    input sign,//需要带符号扩展置1
+    input sign,//脨猫脪陋麓酶路没潞脜脌漏脮鹿脰脙1
     input [31:0] cpu_dmem,
     input [31:0] inst,
     output [31:0] pc,
